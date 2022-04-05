@@ -2,7 +2,7 @@
 
 
 <img src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8,quality-100/20210706_developer-economy_01.jpg" alt="Flash Coding">
-<div style>
+<div>
   <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" alt="HTML Logo">
   <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" alt="CSS Logo">
   <img src="https://cdn.iconscout.com/icon/free/png-256/python-2752092-2284909.png" alt="Python Logo">
