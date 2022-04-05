@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is Victor Ojewole a Software Engineer eager to help out!👋
 
 <!--
 **vojewole/vojewole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8,quality-100/20210706_developer-economy_01.jpg" alt="Flash Coding">
